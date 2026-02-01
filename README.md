@@ -98,26 +98,26 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
-        yesBtn: "Yes",                             // Yes button text
-        noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        text: Mara,Ma placi?",                   // First question
+        yesBtn: "Da",                             // Yes button text
+        noBtn: "Nu",                               // No button text
+        secretAnswer: "Nu te plac,te iubesc❤️"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
-        startText: "This much!",                   // Text before percentage
+        text: "Cat de mult ma iubesti?",          // Second question
+        startText: "Atat de multt!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
         text: "Will you be my Valentine...?",      // Final question
-        yesBtn: "Yes!",                            // Yes button text
-        noBtn: "No"                                // No button text
+        yesBtn: "Da!",                            // Yes button text
+        noBtn: No"                                // No button text
     }
 }
 
 // Love Meter Messages
 loveMessages: {
-    extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows above 5000%
+    extreme: "WOOOOW Ma iubesti atat de mult??  🥰🚀💝",  // Shows above 5000%
     high: "To infinity and beyond! 🚀💝",              // Shows above 1000%
     normal: "And beyond! 🥰"                           // Shows above 100%
 }
